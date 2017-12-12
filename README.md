@@ -1,2 +1,18 @@
-# bookclub-app
-FreeCodeCamp API - Book Trading App.
+# Author
+![@jchurst](https://avatars0.githubusercontent.com/jchurst?&s=128)
+
+Created by JC Hurst
+
+[Github](https://github.com/jchurst) | [FreeCodeCamp](http://www.freecodecamp.com/jchurst) | [CodePen](http://codepen.io/jchurst/) | [LinkedIn](https://www.linkedin.com/in/jchurst) | [Webite](http://hurstcreative.com/) | [E-Mail](mailto:jchurstmail@gmail.com)
+
+# FreeCodeCamp API - Manage a Book Trading Club
+
+## User stories:
+
+1- I can view all books posted by every user.
+
+2- I can add a new book.
+
+3- I can update my settings to store my full name, city, and state.
+
+4- I can propose a trade and wait for the other user to accept the trade.
